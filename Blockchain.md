@@ -20,6 +20,19 @@ When is manual intervention and human discretion, despite its fallibility, requi
 
 Core of contract law:
 
-"Promise/performance given in exchange for promise/performance." - Lawrence Lessig
+"Promise/performance given in exchange for promise/performance." - Lawrence Lessig (Harvard Professor)
+
+Terms of the contract:
+
+- Expressed Terms: Performance for a Performance
+- Implied Terms: Greater legal context for the expressed terms.
+
+Implied terms are created by the law and gets imposed or wrapped around the delivery of the performance etc.
+What do the implied terms imply: The legal system has an interest in your contract.
+
+OR vs EE => State is in the middle. Enforce or punish.
+Digital Contracts need to be compliant to the law.
+Digital contracts are not just between private parties, they are between private parties and the state. We live in a society.
+State is the essential agent of enforcement in the real world.
 
 ## DApps
